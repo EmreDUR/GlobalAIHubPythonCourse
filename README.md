@@ -4,21 +4,14 @@
 **Course Date:** 08.03.2021 - 12.03.2021  
 **Name:** Emre     
 **Surname:** DUR       
-**Email:** emre254254@gmail.com 
+**Email:** aemre.dur@gazi.edu.tr / emre254254@gmail.com
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
+To be edited.
 
 ## Requirements
 ```
 Some python libraries
-Some python libraries
-Some python libraries
 ```
 ---
-
-### Certification
-![](img/TopLearnerCertificate.png)
-
