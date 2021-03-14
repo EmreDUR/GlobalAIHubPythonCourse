@@ -1,0 +1,29 @@
+Question 1: Which animal is known as the Ship of the Desert?
+Answer 1: Camel
+
+Question 2: In which direction does the sun rise?
+Answer 2: East
+
+Question 3: What do you call a type of shape that has three sides?
+Answer 3: Triangle
+
+Question 4: Which organ do we use to smell things?
+Answer 4: Nose
+
+Question 5: Which way is anti-clockwise, left or right?
+Answer 5: Left
+
+Question 6: What do you call a house made of ice?
+Answer 6: Igloo
+
+Question 7: Which is the tallest mountain in the world?
+Answer 7: Mount Everest
+
+Question 8: Which planet is known as the Red Planet?
+Answer 8: Mars
+
+Question 9: Which is the tallest animal on the earth?
+Answer 9: Giraffe
+
+Question 10: What is the first month of the year?
+Answer 10: January
