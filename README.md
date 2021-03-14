@@ -6,8 +6,7 @@
 **Surname:** DUR       
 **Email:** aemre.dur@gazi.edu.tr / emre254254@gmail.com
 
-
-## Project Name
+## Final Project Name
 Knowledge Competition
 
 ## Requirements
