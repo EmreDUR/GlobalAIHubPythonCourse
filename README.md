@@ -8,10 +8,10 @@
 
 
 ## Project Name
-To be edited.
+Knowledge Competition
 
 ## Requirements
 ```
-Some python libraries
+Python 3.x
 ```
 
